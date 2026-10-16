@@ -1,0 +1,65 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 28499856,
+                "file_path": "results\\heart-engine-v3\\Walker\\Walker-28499856.onnx",
+                "reward": 1415.8211059570312,
+                "creation_time": 1760016881.359564,
+                "auxillary_file_paths": [
+                    "results\\heart-engine-v3\\Walker\\Walker-28499856.pt"
+                ]
+            },
+            {
+                "steps": 28999924,
+                "file_path": "results\\heart-engine-v3\\Walker\\Walker-28999924.onnx",
+                "reward": 1404.430148654514,
+                "creation_time": 1760017960.733953,
+                "auxillary_file_paths": [
+                    "results\\heart-engine-v3\\Walker\\Walker-28999924.pt"
+                ]
+            },
+            {
+                "steps": 29499169,
+                "file_path": "results\\heart-engine-v3\\Walker\\Walker-29499169.onnx",
+                "reward": 1422.865234375,
+                "creation_time": 1760018866.8118072,
+                "auxillary_file_paths": [
+                    "results\\heart-engine-v3\\Walker\\Walker-29499169.pt"
+                ]
+            },
+            {
+                "steps": 29999055,
+                "file_path": "results\\heart-engine-v3\\Walker\\Walker-29999055.onnx",
+                "reward": 1415.6345275878907,
+                "creation_time": 1760019725.532899,
+                "auxillary_file_paths": [
+                    "results\\heart-engine-v3\\Walker\\Walker-29999055.pt"
+                ]
+            },
+            {
+                "steps": 30000055,
+                "file_path": "results\\heart-engine-v3\\Walker\\Walker-30000055.onnx",
+                "reward": 1414.5184616815477,
+                "creation_time": 1760019725.6476583,
+                "auxillary_file_paths": [
+                    "results\\heart-engine-v3\\Walker\\Walker-30000055.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30000055,
+            "file_path": "results\\heart-engine-v3\\Walker.onnx",
+            "reward": 1414.5184616815477,
+            "creation_time": 1760019725.6476583,
+            "auxillary_file_paths": [
+                "results\\heart-engine-v3\\Walker\\Walker-30000055.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
