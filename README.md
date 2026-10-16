@@ -37,7 +37,7 @@ The scene uses props and environments from the Unity Asset Store. Their licenses
 Some models from these packs were also copied into `Assets/ML-Agents/Examples/SharedAssets/`. Only their `.meta` files are committed. Copy the original files back to those paths and Unity relinks the scene automatically:
 
 - `SharedAssets/Presents/`: `present_01.fbx` to `present_08.fbx`, plus their materials in `Materials/`, from the **Presents** pack
-- `SharedAssets/Flowers/`: the `SM_*` flower models and `DEMOAtlas_Flowerpack.png` from the flower pack
+- `SharedAssets/Flowers/`: `SM_Daisy_Single`, `SM_Dandelion_Small`, `SM_Hyacinth_PastellBlue_Big`, `SM_Rose_Black_Open`, `SM_Rose_Red_Open` and `DEMOAtlas_Flowerpack.png`, from a free "Flowerpack" demo downloaded online (original source unknown). These are decoration only, so you can skip them or swap in any flower models.
 
 Without them the agents and training still work, but some props and materials will show as missing (pink).
 
